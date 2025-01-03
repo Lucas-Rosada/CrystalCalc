@@ -1,3 +1,7 @@
+<p align="center">
+   <img src="https://raw.githubusercontent.com/Lucas-Rosada/CrystalCalc/refs/heads/main/assets/logo.png" width="400" height="400" alt="Logo"/> 
+</p>
+
 # 🚀 Calculadora Web em Crystal
 
 ![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen) ![Crystal](https://img.shields.io/badge/Crystal-Language-green)

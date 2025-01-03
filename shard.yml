@@ -1,0 +1,17 @@
+name: calculadora
+version: 0.1.0
+
+authors:
+  - Lucas_Rosada <devlucasrosada@gmail.com>
+
+targets:
+  calculadoa:
+    main: src/calculadoa.cr
+
+crystal: '>= 1.14.0'
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+
+license: MIT
